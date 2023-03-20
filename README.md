@@ -1,2 +1,2 @@
-# Blog-image
+# BlogImage
 For storing image
